@@ -13,7 +13,6 @@ public class Linear_search {
                 break;
             }
         }
-
         if (!found) {
             System.out.println("Element " + target + " not found in the array.");
         }

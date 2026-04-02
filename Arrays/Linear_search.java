@@ -1,0 +1,21 @@
+package Arrays;
+
+public class Linear_search {
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        int target = 3;
+        boolean found = false;
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            if (arr[i] == target) {
+                found = true;
+                System.out.println("Element " + target + " found at index: " + i);
+                break;
+            }
+        }
+
+        if (!found) {
+            System.out.println("Element " + target + " not found in the array.");
+        }
+    }
+}

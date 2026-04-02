@@ -9,7 +9,6 @@ public class count_occerence_Specidic_elem {
             if (arr[i] == target) {
                 count++;
             }
-            
         }
         System.out.println("Element " + target + " occurs " + count + " times in the array.");
     }

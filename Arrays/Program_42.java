@@ -1,3 +1,5 @@
+package Arrays;
+
 public class Program_42 {
     public static void main(String[] args) {
 

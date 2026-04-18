@@ -1,8 +1,10 @@
-Intersection_two_arr
+package Arrays;
+
+// Intersection_two_arr.java
 
 import java.util.*;
 
-public class intersection_two_arr {
+public class Intersection_two_arr {
     public static void main(String[] args) {
 
         int[] A = {1, 2, 2, 3};

@@ -1,4 +1,4 @@
-import java.util.*;
+package Arrays;
 
 public class Missing_Number {
     public static void main(String[] args) {

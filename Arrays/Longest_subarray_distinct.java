@@ -1,3 +1,5 @@
+package Arrays;
+
 public class Longest_subarray_distinct {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 2, 5, 6};
